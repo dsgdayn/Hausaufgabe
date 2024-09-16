@@ -1,0 +1,70 @@
+h1{
+    color: whitesmoke;
+    font-size: 45px;
+}
+h2 {
+    font-size: 30px;
+    color: whitesmoke;
+}
+.class1 {
+    font-size: 30px;
+    color: whitesmoke;
+}
+h3 {
+    font-size: 28px;
+    color: whitesmoke;
+}
+.class2{
+    font-size: 28px;
+    color: whitesmoke;
+}
+h4 {
+    font-size: 30px;
+    color: whitesmoke;
+}
+.class3{
+    color: whitesmoke;
+    font-size: 30px;
+}
+.img1 {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 25px;
+    display: inline;
+    float: right;
+}
+body {
+    height: 100vh;
+    width: 100%;
+    background-image: url(/images/Flag_of_Germany.svg.png);
+}
+h5 {
+    color: whitesmoke;
+    font-size: 33px;
+    display: inline;
+}
+.class4 {
+    color: whitesmoke;
+    font-size: 30px;
+}  
+h6 {
+    color: whitesmoke;
+    font-size: 35px;
+    display: inline;
+}
+.class5{
+    color: whitesmoke;
+    font-size:31px;
+}
+.class6 {
+    color: whitesmoke;
+    font-size:31px;
+}
+.tabelle {
+    font-size: 17px;
+    display: inline-block;
+    border-style: solid;
+    border-width: 0.7px;
+    background-color: slategray;
+    padding-right: 20px;
+}
